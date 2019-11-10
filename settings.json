@@ -1,0 +1,5 @@
+{
+        "servicerestart":"service unifi restart",
+        "serviceget": "",
+        "serviceset": "",
+ }
